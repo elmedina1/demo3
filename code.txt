@@ -21,3 +21,6 @@ srcset="https://nahla.ba/wp-content/uploads/2019/12/psih_savjetovaliste_baner.jp
 
 
 sizes="(max-width: 600px) 100vw, 600px">
+kluc
+ok 
+jedan
