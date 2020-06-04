@@ -1,0 +1,23 @@
+<a href="https://nahla.ba/" class="custom-logo-link" rel="home"><img width="210" height="60" src="https://nahla.ba/wp-content/uploads/2019/05/Nahla-logo-210.png" 
+class="custom-logo" alt="Nahla"></a>
+
+.custom-logo
+
+//a[href="https://nahla.ba/psiholosko-savjetovaliste-2/"]
+
+
+
+
+//*[@id="mce-FNAME"]
+
+#mce-FNAME
+
+
+
+<img width="600" height="300" src="https://nahla.ba/wp-content/uploads/2019/12/psih_savjetovaliste_baner.jpg" 
+class="attachment-large size-large" alt="" 
+srcset="https://nahla.ba/wp-content/uploads/2019/12/psih_savjetovaliste_baner.jpg 600w,
+ https://nahla.ba/wp-content/uploads/2019/12/psih_savjetovaliste_baner-300x150.jpg 300w" 
+
+
+sizes="(max-width: 600px) 100vw, 600px">
